@@ -1,0 +1,14 @@
+[
+    {
+        "id_producto": "1",
+        "nombre": "atun",
+        "cantidad": 3,
+        "precio": 2.0
+    },
+    {
+        "id_producto": "2",
+        "nombre": "camarones",
+        "cantidad": 3,
+        "precio": 3.5
+    }
+]
